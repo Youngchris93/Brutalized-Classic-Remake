@@ -1,0 +1,31 @@
+mr.enhan/Monster Randomizer Enhanced - https://www.wad-archive.com/wad/a2e95dcb1e0f12552f0cddfc5c7bcc59efbf8535
+cybers_monster_randomizer - https://forum.zdoom.org/viewtopic.php?t=63901
+Brutalized Classic beta 1 - https://www.moddb.com/mods/the-brutalized-classic
+Backpack Doubler Wad - https://forum.zdoom.org/viewtopic.php?f=43&t=71979
+Brothers in Arms v1a - https://www.moddb.com/mods/brother-in-arms
+Crosshair & Hitmarker - https://forum.zdoom.org/viewtopic.php?t=60356
+Companion Wads - https://forum.zdoom.org/viewtopic.php?t=69548
+Helmet Doomguy Mugshot - https://www.moddb.com/games/doom/addons/helmet-doomguy-mugshot
+Marine's helmet armor bonus wad - N/A (Usually comes with Brutalized Classic beta 1)
+
+
+[DECORATE.ISABELLE.txt]
+ACTOR ISABELLESTANCESWITCH : SwitchableDecoration
+|
+Lines 13 to 74
+
+[decorate.ralsei.txt]
+ACTOR RALSEISTANCESWITCH : SwitchableDecoration
+|
+Lines 41 to 101
+
+[decorate.susie.txt]
+ACTOR SUSIESTANCESWITCH : SwitchableDecoration
+|
+Lines 37 to 98
+
+By typing "/*   */" (without the quotes) around the code, you can disable Isabella & Friends Commands
+(or delete the code)
+
+EX:  /* Blah Blah Blah Code
+        Blah Blah Blah Code */
