@@ -7,6 +7,8 @@ Crosshair & Hitmarker - https://forum.zdoom.org/viewtopic.php?t=60356
 Companion Wads - https://forum.zdoom.org/viewtopic.php?t=69548
 Helmet Doomguy Mugshot - https://www.moddb.com/games/doom/addons/helmet-doomguy-mugshot
 Marine's helmet armor bonus wad - N/A (Usually comes with Brutalized Classic beta 1)
+DGA Weapons - https://www.doomworld.com/idgames/combos/dga
+OMG Weapons - https://www.doomworld.com/idgames/combos/omgwpnv2
 
 
 [DECORATE.ISABELLE.txt]
